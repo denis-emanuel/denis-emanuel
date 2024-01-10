@@ -1,11 +1,32 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css)](https://skillicons.dev)
+<h2 align="center">Tech stack</h2>
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" alt="My Skills">
+  </a>
+  <br>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,docker,postgres" alt="My Skills">
+  </a>
+</p>
+
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,docker,postgres)](https://skillicons.dev)
 
-- 🌱 I'm currently learning and practicing ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) with server actions and learning concurrency patterns in ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- ⚡ Fun fact: I love listening to music from the 80s and 90s
+<h2 align="center">About me</h2>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: left;">
+  - 🌱 I'm currently learning and practicing <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"> with server actions and learning concurrency patterns in <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <br/>
+  - ⚡ Fun fact: I love listening to music from the 80s and 90s
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denis-emanuel)](https://github.com/denis-emanuel/github-readme-stats)
+
+
+<br/>
+<h2 align="center">Github stats</h2>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=denis-emanuel" alt="Anurag's GitHub stats">
+</p>
+
+
 
 
 <!--
