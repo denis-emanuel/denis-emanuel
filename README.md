@@ -1,5 +1,6 @@
 ## Tech stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css)](https://skillicons.dev)
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,docker,postgres)](https://skillicons.dev)
 
 <!--
