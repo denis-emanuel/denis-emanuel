@@ -1,4 +1,4 @@
-### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,go,nextjs,nestjs,nodejs,postgres,react,ts)](https://skillicons.dev)
 
 <!--
 **denis-emanuel/denis-emanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
