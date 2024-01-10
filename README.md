@@ -1,7 +1,13 @@
-## Tech stack:
+Tech stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,nestjs,docker,postgres)](https://skillicons.dev)
+
+- 🌱 I'm currently learning and practicing ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) with server actions and learning concurrency patterns in ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- ⚡ Fun fact: I love listening to music from the 80s and 90s
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denis-emanuel)](https://github.com/denis-emanuel/github-readme-stats)
+
 
 <!--
 **denis-emanuel/denis-emanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
